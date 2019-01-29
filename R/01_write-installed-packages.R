@@ -1,6 +1,14 @@
+#' ---
+#' output: github_document
+#' author: skim68
+#' ---
+
+
 ## deja vu from earlier!
 
 ## create a data frame of your installed packages
+
+
 ## hint: installed.packages() is the function you need
 
 df <- installed.packages()
